@@ -39,6 +39,7 @@ body {
       -ms-flex-direction: row-reverse;
           flex-direction: row-reverse;
   padding: 7px;
+  overflow-x: scroll;
 }
 
 .calc .calc-buttons {
